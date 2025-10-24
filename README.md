@@ -96,15 +96,16 @@ I Enjoy Analytical Thinking.
   </a>
   &nbsp;
   <a href="https://wa.me/2347065527642" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" alt="WhatsApp" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="40" height="40"/>
   </a>
   &nbsp;
   <a href="mailto:ogheghajoshua@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Email" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="40" height="40"/>
   </a>
 </p>
 
 ---
 
-<h4 align="center">✨ Joshua OC in Summary ** “Driven by data. Defined by creativity. Delivered through excellence.” ** ✨</h4>
+### Joshua in Summary
+<h4 align="center">✨ “Driven by data. Defined by creativity. Delivered through excellence.” ✨</h4>
 
