@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="left">👋 Hi, I'm Joshua OC Oghegha</h1>
-<h3 align="center">Project Analyst | Data Analyst | Creative Director | Software Engineering Student @ ALX Africa</h3>
+<h3 align="center">Project / Data Analyst | Creative Director | Software Engineering Student @ ALX Africa</h3>
 
 ---
 
