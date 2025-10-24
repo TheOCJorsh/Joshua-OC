@@ -6,6 +6,10 @@
 
 ### 💡 About Me
 
+<p align="left">
+  <img src="https://github.com/TheOCJorsh/Joshua-OC/blob/main/OCJorsh.png" alt="O C Jorsh" width="100" height="150" style="border-radius: 50%; margin-left: 10px;" align="left"/>
+</p>
+
 I'm a **results-driven Project Analyst** and **Creative Technologist** passionate about turning complex ideas into scalable, data-informed, and visually compelling solutions.  
 
 With over **$1.5M+ in sales revenue generated** for clients, I blend **strategic project management**, **data analytics**, and **creative innovation** to drive growth, inspire teams, and execute excellence.
